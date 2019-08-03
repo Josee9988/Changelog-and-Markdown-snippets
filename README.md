@@ -32,32 +32,49 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ## **Snippets cheat sheet** 📜📝
 
-|        Alias        |                                   Description                                  |
-|:-------------------:|:------------------------------------------------------------------------------:|
-|    ChangelogInit    |                     The initial structure of the changelog                     |
-| ChangelogNewVersion |          Set a new version with the version name and the current date.         |
-|   ChangelogYanked   | For versions that had to be pulled because of a serious bug or security issue. |
-| ChangelogUnreleased |                             For the actual changes.                            |
-|    ChangelogAdded   |                        Add new features to your project.                       |
-|   ChangelogChanged  |                     For changes in existing functionality.                     |
-| ChangelogDeprecated |                        For soon-to-be removed features.                        |
-|   ChangelogRemoved  |                              For removed features.                             |
-|    ChangelogFixed   |                                 For bug fixes.                                 |
-|  ChangelogSecurity  |                     For security fixes and vulnerabilities.                    |
-|         Link        |                        Link to a file or to a web page.                        |
-|        Italic       |                              Adds an Italic text.                              |
-|         Bold        |                                Adds a bold text.                               |
-|        Strike       |                            Strike through your text.                           |
-|         List        |                          Make a quick 3 elements list.                         |
-|      InlineCode     |                             Insert an inline code.                             |
-|    MultiLineCode    |                             Insert multi line code.                            |
+|       Alias      |                                   Description                                  |
+|:----------------:|:------------------------------------------------------------------------------:|
+|      cl-Init     |                     The initial structure of the changelog                     |
+|   cl-NewVersion  |          Set a new version with the version name and the current date.         |
+|     cl-Yanked    | For versions that had to be pulled because of a serious bug or security issue. |
+|   cl-Unreleased  |                             For the actual changes.                            |
+|     cl-Added     |                        Add new features to your project.                       |
+|    cl-Changed    |                     For changes in existing functionality.                     |
+|   cl-Deprecated  |                        For soon-to-be removed features.                        |
+|    cl-Removed    |                              For removed features.                             |
+|     cl-Fixed     |                                 For bug fixes.                                 |
+|    cl-Security   |                     For security fixes and vulnerabilities.                    |
+|      md-Link     |                        Link to a file or to a web page.                        |
+|     md-Italic    |                              Adds an Italic text.                              |
+|      md-Bold     |                                Adds a bold text.                               |
+|     md-Strike    |                            Strike through your text.                           |
+|      md-List     |                          Make a quick 3 elements list.                         |
+|   md-InlineCode  |                             Insert an inline code.                             |
+| md-MultiLineCode |                             Insert multi line code.                            |
 
 ---
+
+### **Prefixes**
+
+> `cl-` comes from Changelog specific snippets.
+>
+> `md-` comes from Markdown general purpose snippets.
+
+---
+
+## **Our recommendations** 🎯🎖
 
 - Set the intellisense snippets to appear on top for a smoothest experience!
 
 ```json
 "editor.snippetSuggestions": "top",
+```
+
+- Snippets autocompletion when pressing tab
+
+```json
+"editor.tabCompletion": "on",
+
 ```
 
 ---
@@ -79,6 +96,7 @@ Check our **[changelog](CHANGELOG.md)**.
 [![Github forks](https://img.shields.io/github/forks/changelog-and-markdown-snippets/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
 
 [Check my VSCode theme](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme) 🧲
+
 [Check my VSCode minifier](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets) 🔥
 
 ---

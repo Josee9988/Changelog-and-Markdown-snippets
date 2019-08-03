@@ -7,7 +7,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
-## [0.2.1] - 2019-08-03
+## [0.3.0] - 2019-08-03
+
+### Added
+
+* New recommendations section in the readme.md file.
+* Minor fixes in the readme.md file.
+* Prefixes for the snippets depending if they are for changelog or for general markdown.
+
+### Changed
+
+* Changed prefixes.
+
+## [0.2.1] - 2019-08-03 [PUBLISHED]
 
 ### Changed
 
