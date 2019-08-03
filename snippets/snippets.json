@@ -1,16 +1,16 @@
 {
     "Changelog initialize": {
-        "prefix": "ChangelogINIT",
+        "prefix": "ChangelogInit",
         "body": [
             "# **Change Log** 📜📝\n",
             "All notable changes to the \"**${1:NameOfTheThing}**\" ${2:WhatItIs/program/extension/API/whatever} will be documented in this file.\n",
-            "The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to[Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n",
+            "The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n",
             "---\n\n$3\n"
         ],
-        "description": "The initial structure of a changelog in which you will start writing your changes!"
+        "description": "The initial structure of the changelog in which you will start building your changelog"
     },
     "Changelog Set new Version": {
-        "prefix": "ChangelogSetNewVersion",
+        "prefix": "ChangelogNewVersion",
         "body": [
             "## [${1:Version}] - $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE\n",
             "$2"
@@ -45,7 +45,7 @@
             "### Changed\n",
             "* $1"
         ],
-        "description": " For changes in existing functionality."
+        "description": "For changes in existing functionality."
     },
     "Changelog Deprecated": {
         "prefix": "ChangelogDeprecated",
@@ -61,7 +61,7 @@
             "### Removed\n",
             "* $1"
         ],
-        "description": "For now removed features."
+        "description": "For removed features."
     },
     "Changelog Fixed": {
         "prefix": "ChangelogFixed",

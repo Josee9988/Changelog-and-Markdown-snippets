@@ -2,7 +2,7 @@
     "name": "changelog-snippets",
     "displayName": "Smooth Changelog Snippets",
     "description": "A snippet extension for creating changelogs in VSCode!",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.36.0"
     },
