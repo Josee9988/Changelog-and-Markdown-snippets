@@ -7,6 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [0.2.1] - 2019-08-03
+
+### Changed
+
+* New name to show that it also has markdown snippets.
+
 ## [0.2.0] - 2019-08-03
 
 ### Added

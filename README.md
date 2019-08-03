@@ -4,10 +4,10 @@ Build **smoothly** your **Changelog** and **Markdown** using the best snippets!
 
 Following **[keep a changelog](https://keepachangelog.com/en/1.0.0/) format** and **[MarkdownLint](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md) rules**.
 
-For more information check our: **[GitHub repository](https://github.com/Josee9988/Smooth-Changelog-snippets/)** and **[VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-snippets)**.
+For more information check our: **[GitHub repository](https://github.com/Josee9988/Smooth-changelog-and-markdown-snippets/)** and **[VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)**.
 
 Do you want to help us improve the extension or did you found a bug?
-**[Let us know](https://github.com/Josee9988/Smooth-Changelog-snippets/issues)** or contact **[me](jgracia9988@gmail.com)**.
+**[Let us know](https://github.com/Josee9988/Smooth-changelog-and-markdown-snippets/issues)** or contact **[me](jgracia9988@gmail.com)**.
 
 Check our **[changelog](CHANGELOG.md)**.
 
@@ -15,10 +15,10 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/josee9988.changelog-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-snippets)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/josee9988.changelog-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-snippets)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/josee9988.changelog-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-snippets)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Josee9988/changelog-snippets.svg?style=popout-square)](#changelog-snippets-for-vscode)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/josee9988.changelog-and-markdown-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/josee9988.changelog-and-markdown-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/josee9988.changelog-and-markdown-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Josee9988/changelog-and-markdown-snippets.svg?style=popout-square)](#changelog-and-markdown-snippets-for-vscode)
 
 ---
 
@@ -26,7 +26,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 - Open the **Command Palette** of VSCode with **Ctrl+P** or **⌘P**
 - And type:➡️
-**```ext install josee9988.changelog-snippets```**
+**```ext install josee9988.changelog-and-markdown-snippets```**
 
 ---
 
@@ -73,13 +73,13 @@ Check our **[changelog](CHANGELOG.md)**.
 ### Did you enjoyed the extension? Help us raise these numbers 🥰 🎉
 
 [![Donate](https://img.shields.io/badge/Donate-Patreon-green.svg)](https://www.patreon.com/bePatron?u=22162331)
-[![Github followers](https://img.shields.io/github/followers/changelog-snippets.svg?style=social)](#languages-primarily-tested)
-[![Github stars](https://img.shields.io/github/stars/changelog-snippets/changelog-snippets.svg?style=social)](#languages-primarily-tested)
-[![Github watchers](https://img.shields.io/github/watchers/changelog-snippets/changelog-snippets.svg?style=social)](#languages-primarily-tested)
-[![Github forks](https://img.shields.io/github/forks/changelog-snippets/changelog-snippets.svg?style=social)](#languages-primarily-tested)
+[![Github followers](https://img.shields.io/github/followers/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
+[![Github stars](https://img.shields.io/github/stars/changelog-and-markdown-snippets/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
+[![Github watchers](https://img.shields.io/github/watchers/changelog-and-markdown-snippets/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
+[![Github forks](https://img.shields.io/github/forks/changelog-and-markdown-snippets/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
 
 [Check my VSCode theme](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme) 🧲
-[Check my VSCode minifier](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-snippets) 🔥
+[Check my VSCode minifier](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets) 🔥
 
 ---
 
