@@ -78,5 +78,59 @@
             "* $1"
         ],
         "description": "For security fixes and vulnerabilities."
+    },
+    "Link": {
+        "prefix": "Link",
+        "body": [
+            "[${1:Title}](${2:URL/URI})"
+        ],
+        "description": "Link to a file or to a web page."
+    },
+    "Italic": {
+        "prefix": "Italic",
+        "body": [
+            "*${1:Text}*"
+        ],
+        "description": "Adds an Italic text."
+    },
+    "Bold": {
+        "prefix": "Bold",
+        "body": [
+            "**${1:Text}**"
+        ],
+        "description": "Adds a bold text."
+    },
+    "Strike through": {
+        "prefix": "Strike",
+        "body": [
+            "~~${1:Text}~~"
+        ],
+        "description": "Strike through your text."
+    },
+    "List": {
+        "prefix": "List",
+        "body": [
+            "* $1",
+            "* $2",
+            "* $3"
+        ],
+        "description": "Make a quick 3 elements list."
+    },
+    "Inline code": {
+        "prefix": "InlineCode",
+        "body": [
+            "`${1:YourLineCodeHere}`"
+        ],
+        "description": "Insert an inline code."
+    },
+    "Multi line code": {
+        "prefix": "MultiLineCode",
+        "body": [
+            "```${1:language}",
+            "${2:The code}",
+            "```"
+        ],
+        "description": "Insert multi line code."
     }
+
 }

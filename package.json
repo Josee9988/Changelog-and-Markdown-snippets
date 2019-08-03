@@ -1,8 +1,8 @@
 {
     "name": "changelog-snippets",
-    "displayName": "Smooth Changelog Snippets",
-    "description": "A snippet extension for creating changelogs in VSCode!",
-    "version": "0.1.2",
+    "displayName": "Smooth Changelog and Markdown Snippets",
+    "description": "A snippet extension for creating changelogs and markdowns in VSCode!",
+    "version": "0.2.0",
     "publisher": "josee9988",
     "license": "SEE LICENSE IN LICENSE",
     "author": "Jose Gracia Berenguer <jgracia9988@gmail.com>",
@@ -15,7 +15,11 @@
         "keep a changelog",
         "changes",
         "log",
-        "markdown"
+        "markdown",
+        "readme",
+        "readme.md",
+        "changelog.md",
+        "md"
     ],
     "bugs": {
         "url": "https://github.com/Josee9988/Smooth-Changelog-snippets/issues",

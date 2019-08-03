@@ -1,6 +1,6 @@
-# **Smooth Changelog snippets for VSCode**
+# **Smooth Changelog and Markdown snippets for VSCode**
 
-Build **smoothly** your changelog using these snippets!
+Build **smoothly** your **Changelog** and **Markdown** using the best snippets!
 
 Following **[keep a changelog](https://keepachangelog.com/en/1.0.0/) format** and **[MarkdownLint](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md) rules**.
 
@@ -10,6 +10,8 @@ Do you want to help us improve the extension or did you found a bug?
 **[Let us know](https://github.com/Josee9988/Smooth-Changelog-snippets/issues)** or contact **[me](jgracia9988@gmail.com)**.
 
 Check our **[changelog](CHANGELOG.md)**.
+
+> 16 Snippets that will make your coding experience much better.
 
 ---
 
@@ -42,6 +44,21 @@ Check our **[changelog](CHANGELOG.md)**.
 |   ChangelogRemoved  |                              For removed features.                             |
 |    ChangelogFixed   |                                 For bug fixes.                                 |
 |  ChangelogSecurity  |                     For security fixes and vulnerabilities.                    |
+|         Link        |                        Link to a file or to a web page.                        |
+|        Italic       |                              Adds an Italic text.                              |
+|         Bold        |                                Adds a bold text.                               |
+|        Strike       |                            Strike through your text.                           |
+|         List        |                          Make a quick 3 elements list.                         |
+|      InlineCode     |                             Insert an inline code.                             |
+|    MultiLineCode    |                             Insert multi line code.                            |
+
+---
+
+- Set the intellisense snippets to appear on top for a smoothest experience!
+
+```json
+"editor.snippetSuggestions": "top",
+```
 
 ---
 
