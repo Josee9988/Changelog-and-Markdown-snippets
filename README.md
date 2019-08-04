@@ -97,7 +97,7 @@ Check our **[changelog](CHANGELOG.md)**.
 
 [Check my VSCode theme](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme) 🧲
 
-[Check my VSCode minifier](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets) 🔥
+[Check my VSCode minifier](https://marketplace.visualstudio.com/items?itemName=josee9988.minifyall) 🔥
 
 ---
 
