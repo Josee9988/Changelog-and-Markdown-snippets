@@ -7,13 +7,31 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [1.0.0] - 2019-08-04
+
+### Added
+
+* One more recommendation in readme.md
+* 6 more snippets of headers.
+* A minified version of the snippet pack to it will be a little bit faster. [Minifier file](snippets/snippets-min.json). Made with my minifier extension.
+* Changed directly to version **1.0.0** because it works properly and the extension does not need much more to be finished as it is only a snippet pack.
+
+### Changed
+
+* Table of snippets added code style and bold text to the snippets.
+* The Readme.md title.
+
+### Fixed
+
+* Some spelling mistakes in the readme.md file.
+
 ## [0.3.0] - 2019-08-03
 
 ### Added
 
 * New recommendations section in the readme.md file.
 * Minor fixes in the readme.md file.
-* Prefixes for the snippets depending if they are for changelog or for general markdown.
+* Prefixes for the snippets depending if they are for changelog or general markdown.
 
 ### Changed
 
