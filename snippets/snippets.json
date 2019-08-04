@@ -12,7 +12,7 @@
     "Changelog Set new Version": {
         "prefix": "cl-NewVersion",
         "body": [
-            "## [${1:Version}] - $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE\n",
+            "## [**${1:Version}**] - $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE\n",
             "$2"
         ],
         "description": "Set a new version with the version name and the current date."
@@ -27,7 +27,7 @@
     "Changelog Unreleased": {
         "prefix": "cl-Unreleased",
         "body": [
-            "## [Released]"
+            "## [Unreleased]"
         ],
         "description": "For the actual changes."
     },
@@ -78,6 +78,13 @@
             "* $1"
         ],
         "description": "For security fixes and vulnerabilities."
+    },
+    "Changelog Published": {
+        "prefix": "cl-Published",
+        "body": [
+            "[Published]"
+        ],
+        "description": "Adds a published tag."
     },
     "Link": {
         "prefix": "md-Link",
@@ -135,42 +142,48 @@
     "H1 - Header one": {
         "prefix": "md-h1",
         "body": [
-            "# **${1:YourHeader}**"
+            "# **${1:YourHeader}**\n",
+            "$2"
         ],
         "description": "Insert a header one H1."
     },
     "H2 - Header two": {
         "prefix": "md-h2",
         "body": [
-            "## **${1:YourHeader}**"
+            "## **${1:YourHeader}**\n",
+            "$2"
         ],
         "description": "Insert a header two H2."
     },
     "H3 - Header three": {
         "prefix": "md-h3",
         "body": [
-            "### **${1:YourHeader}**"
+            "### **${1:YourHeader}**\n",
+            "$2"
         ],
         "description": "Insert a header three H3."
     },
     "H4 - Header four": {
         "prefix": "md-h4",
         "body": [
-            "#### **${1:YourHeader}**"
+            "#### **${1:YourHeader}**\n",
+            "$2"
         ],
         "description": "Insert a header four H4."
     },
     "H5 - Header five": {
         "prefix": "md-h5",
         "body": [
-            "##### **${1:YourHeader}**"
+            "##### **${1:YourHeader}**\n",
+            "$2"
         ],
         "description": "Insert a header five H5."
     },
     "H6 - Header six": {
         "prefix": "md-h6",
         "body": [
-            "###### **${1:YourHeader}**"
+            "###### **${1:YourHeader}**\n",
+            "$2"
         ],
         "description": "Insert a header six H6."
     }

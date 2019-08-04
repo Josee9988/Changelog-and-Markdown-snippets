@@ -7,13 +7,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
-## [1.0.0] - 2019-08-04
+## [**1.1.0**] - 2019-08-04
+
+### Added
+
+* Gif showing how it works.
+* Folder with the media used (icon + gif).
+* Published snippet.
+
+### Fixed
+
+* Unreleased snippet wrote released.
+
+### Changed
+
+* The new version snippets now shows the version boldly.
+
+## [**1.0.0**] - 2019-08-04
 
 ### Added
 
 * One more recommendation in readme.md
 * 6 more snippets of headers.
-* A minified version of the snippet pack to it will be a little bit faster. [Minifier file](snippets/snippets-min.json). Made with my minifier extension.
+* A minified version of the snippet pack to it will be a little bit faster. [**Minifier file**](snippets/snippets-min.json). Made with my minifier extension.
 * Changed directly to version **1.0.0** because it works properly and the extension does not need much more to be finished as it is only a snippet pack.
 
 ### Changed
@@ -25,7 +41,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 * Some spelling mistakes in the readme.md file.
 
-## [0.3.0] - 2019-08-03
+## [**0.3.0**] - 2019-08-03
 
 ### Added
 
@@ -37,13 +53,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 * Changed prefixes.
 
-## [0.2.1] - 2019-08-03 [PUBLISHED]
+## [**0.2.1**] - 2019-08-03 [**PUBLISHED**]
 
 ### Changed
 
 * New name to show that it also has markdown snippets.
 
-## [0.2.0] - 2019-08-03
+## [**0.2.0**] - 2019-08-03
 
 ### Added
 
@@ -52,14 +68,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 * Added new snippets in the readme table.
 * Added snippets for markdown general purpose.
 
-## [0.1.2] - 2019-08-03
+## [**0.1.2**] - 2019-08-03
 
 ### Added
 
 * package.json added information.
 * icon.
 
-## [0.1.1] - 2019-08-03
+## [**0.1.1**] - 2019-08-03
 
 ### Added
 
@@ -73,7 +89,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 * Some descriptions and name of the snippets.
 
-## [0.1.0] - 2019-08-03
+## [**0.1.0**] - 2019-08-03
 
 ### Added
 

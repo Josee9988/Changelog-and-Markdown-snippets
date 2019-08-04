@@ -11,7 +11,7 @@ Do you want to help us improve the extension or did you found a bug?
 
 Check our **[changelog](CHANGELOG.md)**.
 
-> **23** Snippets that will make your coding experience much better.
+> **24** Snippets that will make *your coding experience much **better***.
 
 ---
 
@@ -44,13 +44,14 @@ Check our **[changelog](CHANGELOG.md)**.
 |    **`cl-Removed`**    |                              For removed features.                             |
 |     **`cl-Fixed`**     |                                 For bug fixes.                                 |
 |    **`cl-Security`**   |                     For security fixes and vulnerabilities.                    |
-|      **`md-Link`**     |                         Link to a file or a web page.                          |
+|   **`cl-Published`**   |                              Adds a published tag.                             |
+|      **`md-Link`**     |                        Link to a file or to a web page.                        |
 |     **`md-Italic`**    |                              Adds an Italic text.                              |
 |      **`md-Bold`**     |                                Adds a bold text.                               |
 |     **`md-Strike`**    |                            Strike through your text.                           |
 |      **`md-List`**     |                          Make a quick 3 elements list.                         |
 |   **`md-InlineCode`**  |                             Insert an inline code.                             |
-| **`md-MultiLineCode`** |                             Insert multi-line code.                            |
+| **`md-MultiLineCode`** |                             Insert multi line code.                            |
 |       **`md-h1`**      |                             Insert a header one H1.                            |
 |       **`md-h2`**      |                             Insert a header two H2.                            |
 |       **`md-h3`**      |                            Insert a header three H3.                           |
@@ -60,11 +61,17 @@ Check our **[changelog](CHANGELOG.md)**.
 
 ---
 
-### **Prefixes**
+### **Prefixes** 🎱🎲
 
 > `cl-` comes from Changelog specific snippets.
 >
 > `md-` comes from Markdown general-purpose snippets.
+
+---
+
+## **How does it look when writing a real changelog?** 📸 😁
+
+<img src="https://i.imgur.com/JcDqWlW.gif" alt="GIF" title="GIF" style="border-radius:15px; box-shadow: 6px 6px  #282829; max-height: 550px; max-width:725px;margin-left: auto; margin-right:auto;display: block;margin-left: auto;margin-right:auto;width:75%;"/>
 
 ---
 
