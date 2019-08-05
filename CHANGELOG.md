@@ -7,6 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [**1.1.1**] - 2019-08-05
+
+### Fixed
+
+* Badges in the readme.md file had the wrong URL.
+
 ## [**1.1.0**] - 2019-08-04
 
 ### Added

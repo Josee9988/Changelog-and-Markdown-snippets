@@ -108,10 +108,10 @@ Check our **[changelog](CHANGELOG.md)**.
 ### Did you enjoyed the extension? Help us raise these numbers 🥰 🎉
 
 [![Donate](https://img.shields.io/badge/Donate-Patreon-green.svg)](https://www.patreon.com/bePatron?u=22162331)
-[![Github followers](https://img.shields.io/github/followers/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
-[![Github stars](https://img.shields.io/github/stars/changelog-and-markdown-snippets/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
-[![Github watchers](https://img.shields.io/github/watchers/changelog-and-markdown-snippets/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
-[![Github forks](https://img.shields.io/github/forks/changelog-and-markdown-snippets/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
+[![Github followers](https://img.shields.io/github/followers/Josee9988?style=social)](#languages-primarily-tested)
+[![Github stars](https://img.shields.io/github/stars/Josee9988/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
+[![Github watchers](https://img.shields.io/github/watchers/Josee9988/changelog-and-markdown-snippets.svg?style=social)](#languages-primarily-tested)
+[![Github forks](https://img.shields.io/github/forks/Josee9988/Changelog-and-Markdown-snippets?style=social)](#languages-primarily-tested)
 
 [Check my VSCode theme](https://marketplace.visualstudio.com/items?itemName=josee9988.black-garnet-theme) 🧲
 
