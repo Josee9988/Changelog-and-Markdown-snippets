@@ -7,6 +7,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [**1.1.2**] - 2019-08-07
+
+### Added
+
+* Snippet for adding an unchecked checkbox in markdown.
+* The new snipped to the readme.md file.
+
 ## [**1.1.1**] - 2019-08-05
 
 ### Fixed

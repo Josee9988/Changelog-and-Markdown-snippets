@@ -58,6 +58,7 @@ Check our **[changelog](CHANGELOG.md)**.
 |       **`md-h4`**      |                            Insert a header four H4.                            |
 |       **`md-h5`**      |                            Insert a header five H5.                            |
 |       **`md-h6`**      |                             Insert a header six H6.                            |
+|      **`md-Box`**      |                          Insert an unchecked checkbox.                         |
 
 ---
 

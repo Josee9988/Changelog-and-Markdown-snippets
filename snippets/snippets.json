@@ -186,6 +186,13 @@
             "$2"
         ],
         "description": "Insert a header six H6."
+    },
+    "CheckBox Unchecked": {
+        "prefix": "md-Box",
+        "body": [
+            "[ ] $1"
+        ],
+        "description": "Insert an unchecked checkbox."
     }
 
 }
