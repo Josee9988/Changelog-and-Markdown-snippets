@@ -11,7 +11,7 @@ Do you want to help us improve the extension or did you found a bug?
 
 Check our **[changelog](CHANGELOG.md)**.
 
-> **24** Snippets that will make *your coding experience much **better***.
+> **24** Snippets that will make *your coding experience much **faster***.
 
 ---
 

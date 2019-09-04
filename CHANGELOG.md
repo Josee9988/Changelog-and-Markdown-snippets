@@ -7,6 +7,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [**1.1.3**] - 2019-09-04
+
+### Added
+
+* .vscodeignore file so the user will now have to download less files, so it will boost the speed of the extension.
+
+### Changed
+
+* Location of the CODE_OF_CONDUCT.MD from main folder to the .github folder.
+* Little things in the README.md file.
+
+### Removed
+
+* Unused file.
+
 ## [**1.1.2**] - 2019-08-07
 
 ### Added
