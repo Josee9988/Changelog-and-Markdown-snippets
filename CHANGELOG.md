@@ -7,6 +7,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [**1.1.4**] - 2019-09-12
+
+### Added
+
+* README.md file in the snippets folder explaining what this folder contains.
+* Comments in the '.vscodeignore' file to improve readability.
+
 ## [**1.1.3**] - 2019-09-04
 
 ### Added

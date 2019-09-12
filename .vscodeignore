@@ -1,3 +1,8 @@
+#Full folders ignored.
 .github/**
+
+#Images folder.
 Images/gif.gif
+
+#Snippets folder.
 snippets/snippets.json
