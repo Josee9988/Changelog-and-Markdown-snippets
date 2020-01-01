@@ -7,6 +7,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [**1.2.0**] - 2019-12-30
+
+### Added
+
+* Snippet 'Improved'.
+* The new snippet to the readme.md file.
+* Keyword 'changes' in the package.json file.
+
 ## [**1.1.4**] - 2019-09-12
 
 ### Added

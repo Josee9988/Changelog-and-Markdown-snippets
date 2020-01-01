@@ -43,6 +43,7 @@ Check our **[changelog](CHANGELOG.md)**.
 |   **`cl-Deprecated`**  |                        For soon-to-be removed features.                        |
 |    **`cl-Removed`**    |                              For removed features.                             |
 |     **`cl-Fixed`**     |                                 For bug fixes.                                 |
+|     **`cl-Improved`**  |                            For feature improvements.                           |
 |    **`cl-Security`**   |                     For security fixes and vulnerabilities.                    |
 |   **`cl-Published`**   |                              Adds a published tag.                             |
 |      **`md-Link`**     |                        Link to a file or to a web page.                        |

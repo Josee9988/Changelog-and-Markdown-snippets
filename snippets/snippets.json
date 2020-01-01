@@ -71,6 +71,14 @@
         ],
         "description": "For bug fixes."
     },
+    "Changelog Improved": {
+        "prefix": "cl-Improved",
+        "body": [
+            "### Improved\n",
+            "* $1"
+        ],
+        "description": "For feature improvements."
+    },
     "Changelog Security": {
         "prefix": "cl-Security",
         "body": [
