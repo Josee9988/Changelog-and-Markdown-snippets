@@ -7,6 +7,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [**1.2.1**] - 2021-03-21
+
+### Removed
+
+* Snippets/README.md removed from the project source to improve performance.
+
+### Added
+
+* .github folder from josee9988/project-template.
+* Badges in the README.md file.
+
 ## [**1.2.0**] - 2019-12-30
 
 ### Added
