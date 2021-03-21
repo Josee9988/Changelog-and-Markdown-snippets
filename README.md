@@ -5,7 +5,7 @@ Build **smoothly** your **Changelog** and **Markdown** using the best snippets!
 
 Following **[keep a changelog](https://keepachangelog.com/en/1.0.0/) format** and **[MarkdownLint](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md) rules**.
 
-For more information check our: **[GitHub repository](hhttps://github.com/Josee9988/Changelog-and-Markdown-snippets)** and **[VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)**.
+For more information check our: **[GitHub repository](hhttps://github.com/Josee9988/Changelog-and-Markdown-snippets)** and **[VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)** or **[OpenVSX registry](https://open-vsx.org/extension/Josee9988/changelog-and-markdown-snippets)**.
 
 Do you want to help us improve the extension or did you found a bug?
 **[Let us know](https://github.com/Josee9988/Changelog-and-Markdown-snippets/issues)** or contact **[me](jgracia9988@gmail.com)**.
