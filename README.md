@@ -1,13 +1,14 @@
+<!-- markdownlint-disable MD032 MD033-->
 # **Changelog and Markdown snippets for VSCode**
 
 Build **smoothly** your **Changelog** and **Markdown** using the best snippets!
 
 Following **[keep a changelog](https://keepachangelog.com/en/1.0.0/) format** and **[MarkdownLint](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md) rules**.
 
-For more information check our: **[GitHub repository](https://github.com/Josee9988/Smooth-changelog-and-markdown-snippets/)** and **[VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)**.
+For more information check our: **[GitHub repository](hhttps://github.com/Josee9988/Changelog-and-Markdown-snippets)** and **[VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)**.
 
 Do you want to help us improve the extension or did you found a bug?
-**[Let us know](https://github.com/Josee9988/Smooth-changelog-and-markdown-snippets/issues)** or contact **[me](jgracia9988@gmail.com)**.
+**[Let us know](https://github.com/Josee9988/Changelog-and-Markdown-snippets/issues)** or contact **[me](jgracia9988@gmail.com)**.
 
 Check our **[changelog](CHANGELOG.md)**.
 
@@ -18,7 +19,9 @@ Check our **[changelog](CHANGELOG.md)**.
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/josee9988.changelog-and-markdown-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/josee9988.changelog-and-markdown-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/josee9988.changelog-and-markdown-snippets.svg?style=for-the-badge&logo)](https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Josee9988/changelog-and-markdown-snippets.svg?style=popout-square)](#changelog-and-markdown-snippets-for-vscode)
+<a href="https://marketplace.visualstudio.com/items?itemName=josee9988.changelog-and-markdown-snippets">
+<img src="https://img.shields.io/badge/use%20this-extension-blue?logo=github-sponsors&style=for-the-badge&color=red">
+</a>
 
 ---
 
