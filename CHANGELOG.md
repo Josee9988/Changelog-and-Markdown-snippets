@@ -7,6 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [Unreleased]
+
+### Fixed
+
+* Some typos and grammar issues.
+
 ## [**1.2.1**] - 2021-03-21
 
 ### Removed
@@ -30,14 +36,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ### Added
 
-* README.md file in the snippets folder explaining what this folder contains.
+* README.md file in the snippet's folder explaining what this folder contains.
 * Comments in the '.vscodeignore' file to improve readability.
 
 ## [**1.1.3**] - 2019-09-04
 
 ### Added
 
-* .vscodeignore file so the user will now have to download fewer files, so it will boost the speed of the extension.
+* .vscodeignore file, so the user will now have to download fewer files, so it will boost the speed of the extension.
 
 ### Changed
 
@@ -52,7 +58,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ### Added
 
-* Snippet for adding an unchecked checkbox in markdown.
+* Snippet for adding an unchecked checkbox in Markdown.
 * The new snipped to the readme.md file.
 
 ## [**1.1.1**] - 2019-08-05
@@ -65,8 +71,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ### Added
 
-* Gif showing how it works.
-* Folder with the media used (icon + gif).
+* GIF showing how it works.
+* Folder with the media used (icon + GIF).
 * Published snippet.
 
 ### Fixed
@@ -83,8 +89,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 * One more recommendation in readme.md
 * 6 more snippets of headers.
-* A minified version of the snippet pack to it will be a little bit faster. [**Minifier file**](snippets/snippets-min.json). Made with my minifier extension.
-* Changed directly to version **1.0.0** because it works properly and the extension does not need much more to be finished as it is only a snippet pack.
+* A minified version of the snippet pack to it will be a little faster. [**Minifier file**](snippets/snippets-min.json). Made with my minifier extension.
+* Changed directly to version **1.0.0** because it works properly, and the extension does not need much more to be finished as it is only a snippet pack.
 
 ### Changed
 
@@ -101,7 +107,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 * New recommendations section in the readme.md file.
 * Minor fixes in the readme.md file.
-* Prefixes for the snippets depending if they are for changelog or general markdown.
+* Prefixes for the snippets depending on if they are for changelog or general markdown.
 
 ### Changed
 
